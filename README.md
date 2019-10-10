@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/PGbyliczek/PGbyliczek/_apis/build/status/piotr-gbyliczek.ContosoAir?branchName=master)](https://dev.azure.com/PGbyliczek/PGbyliczek/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
